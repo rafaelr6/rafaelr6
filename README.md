@@ -5,7 +5,7 @@ Most of what I build is hands-on: real code, tested patterns, and deployable fra
 
 🔍 What I work on
 - 📊 Strategy & Architecture: modular design for scalable, composable agent systems
-- 🧠 Agentic Infrastructure: autonomous agents for key use case as payments , compliance, and crypto operations
+- 🧠 Agentic innovations: autonomous agents for key use case as payments , compliance, and crypto operations
 - 💸 Programmable Payments: AI-driven flows across fiat, crypto, and tokenized assets
 - 🧾 Tokenized Workflows: smart contract integration, on-chain/off-chain coordination
 - 🪙 Crypto-native: chat-based wallets, agent wallets, and decentralized identity
